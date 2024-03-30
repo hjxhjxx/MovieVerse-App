@@ -1,4 +1,5 @@
 [flake8]
+
 # Ignore certain error codes
 ignore =
     E501,  # Line too long
